@@ -1,2 +1,0 @@
-# MyDoc ReactWeb App
-
